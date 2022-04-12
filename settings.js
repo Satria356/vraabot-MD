@@ -16,14 +16,14 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6283808840711','6283808840711','6283808840711']
-global.ownernomer = '6283808840711'
-global.premium = ['6283808840711']
-global.ownername = 'KIKI VZ'
-global.botname = 'VraaBotz'
-global.footer = '2022 - kiki vz ><'
-global.email = 'vraakeren@gmail.com'
-global.ig = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
+global.owner = ['6283811034750','6283811034750','6283811034750']
+global.ownernomer = '6283811034750'
+global.premium = ['6283811034750']
+global.ownername = 'Run'
+global.botname = 'BOT-MD'
+global.footer = '2022 - BOT'
+global.email = 'playgogle03@gmail.com'
+global.ig = 'https://youtube.com/channel/UCt2XrKFptMVDysQ'
 global.region = 'jepang'// bebas
 
 // Keperluan buttons
@@ -31,8 +31,8 @@ global.myweb = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
 global.sc = 'https://github.com/kikivz/vraabot-MD'
 global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'// GRUP LU 
 // Wm
-global.packname = 'kiki'//BEBAS
-global.author = 'vz'
+global.packname = 'Bot'//BEBAS
+global.author = 'Md'
 
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/kiki.jpg')// jangan di ubah nanti eror
@@ -51,7 +51,7 @@ global.sp = '⭔'
 
 // Mess wait & Premium
 global.mess = {
-    success: '✓ Success',
+    success: ' Success',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
